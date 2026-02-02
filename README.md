@@ -29,7 +29,7 @@ education:
   - M.S. Data Analytics — Baruch College (Zicklin)
   - MBA — Institute of Public Enterprise
 experience:
-  - Software Dev Intern @ JustPaid (YC W23)
+  - Intern @ JustPaid (YC W23)
   - Data Analyst @ Electronic Arts (EA Games)
   - Software/Data Analyst @ CEIPAL Solutions
 focus:
