@@ -24,14 +24,19 @@
 ```yaml
 name: Shrinija Kummari
 role: AI Engineer
+location: Seattle, WA
+education:
+  - M.S. Data Analytics — Baruch College (Zicklin)
+  - MBA — Institute of Public Enterprise
+experience:
+  - Software Dev Intern @ JustPaid (YC W23)
+  - Data Analyst @ Electronic Arts (EA Games)
+  - Software/Data Analyst @ CEIPAL Solutions
 focus:
-  - Large Language Models (LLMs)
-  - Retrieval-Augmented Generation (RAG)
-  - Machine Learning & NLP
-  - Data Analytics & Visualization
-education: Business Analytics
-superpower: Bridging business logic with AI
-currently_building: AI-powered applications
+  - Large Language Models (LLMs) & RAG
+  - Scalable Data Pipelines & ETL
+  - Production Software Systems
+  - Cloud-Native Applications
 looking_for: AI Engineer roles
 ```
 
@@ -64,27 +69,41 @@ looking_for: AI Engineer roles
 
 <br>
 
-**`AI / ML`**
+**`Languages`**
 
 ![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6366f1)
-![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
-![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=ec4899)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
-![scikit-learn](https://img.shields.io/badge/sklearn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=6366f1)
-
-**`Data`**
-
+![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ec4899)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=a855f7)
-![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=ec4899)
-![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=6366f1)
-![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=a855f7)
 
-**`Tools`**
+**`AI / GenAI`**
 
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
+![RAG](https://img.shields.io/badge/RAG-0D1117?style=for-the-badge&logo=openai&logoColor=6366f1)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-0D1117?style=for-the-badge&logo=anthropic&logoColor=ec4899)
+![Embeddings](https://img.shields.io/badge/Embeddings-0D1117?style=for-the-badge&logo=databricks&logoColor=a855f7)
+
+**`Data & Systems Engineering`**
+
+![ETL](https://img.shields.io/badge/ETL_Pipelines-0D1117?style=for-the-badge&logo=apache-airflow&logoColor=6366f1)
+![Data Modeling](https://img.shields.io/badge/Data_Modeling-0D1117?style=for-the-badge&logo=diagrams.net&logoColor=a855f7)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=ec4899)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=6366f1)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=a855f7)
+
+**`Cloud & DevOps`**
+
+![AWS](https://img.shields.io/badge/AWS-0D1117?style=for-the-badge&logo=amazon-web-services&logoColor=ff9900)
 ![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=6366f1)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=ec4899)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0D1117?style=for-the-badge&logo=githubactions&logoColor=a855f7)
+
+**`Analytics & Visualization`**
+
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=6366f1)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=power-bi&logoColor=fbbf24)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=ec4899)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=a855f7)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=6366f1)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=22c55e)
 
 </div>
 
@@ -108,7 +127,7 @@ looking_for: AI Engineer roles
     <img src="https://img.shields.io/badge/VIEW_PROJECT-6366f1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center"><strong>RAG chatbot that answers questions about your documents</strong></p>
+<p align="center"><strong>RAG-based document Q&A chatbot with web UI</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Claude_AI-0D1117?style=flat-square&logo=anthropic&logoColor=a855f7" />
   <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=6366f1" />
@@ -117,28 +136,29 @@ looking_for: AI Engineer roles
 </p>
 </td>
 <td width="50%" valign="top">
-<h3 align="center">🎧 AI Audio Tour Agent</h3>
+<h3 align="center">🎧 AI Voice Agents</h3>
 <p align="center">
   <a href="https://github.com/Shrinija17/AI_Audio_Tour_Agent">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-a855f7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center"><strong>AI-powered audio tour guide application</strong></p>
+<p align="center"><strong>Voice-powered AI agents with multi-agent architecture & real-time TTS/STT</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366f1" />
-  <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=ec4899" />
 </p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3 align="center">🎬 Movie Sentiment Analysis</h3>
+<h3 align="center">🎬 Movie Sentiment (Llama 3)</h3>
 <p align="center">
   <a href="https://github.com/Shrinija17/llama3-movie_sentiment">
     <img src="https://img.shields.io/badge/VIEW_PROJECT-ec4899?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
-<p align="center"><strong>Sentiment analysis powered by Llama 3</strong></p>
+<p align="center"><strong>Sentiment analysis powered by Llama 3 LLM</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Llama_3-0D1117?style=flat-square&logo=meta&logoColor=6366f1" />
   <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=spacy&logoColor=a855f7" />
@@ -169,7 +189,9 @@ looking_for: AI Engineer roles
 
 <br>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shrinija-kummari)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Shrinija17)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:shrinija.kummari@baruchmail.cuny.edu)
 
 <br>
 
