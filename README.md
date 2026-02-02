@@ -1,73 +1,178 @@
-<h1 align="center">Hi, I'm Shrinija Kummari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=220&section=header&text=Shrinija%20Kummari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer&descSize=18&descAlignY=52&descColor=e0e0ff" width="100%" />
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=A855F7&center=true&vCenter=true&multiline=true&random=false&width=600&height=70&lines=Building+the+future+with+AI+%F0%9F%9A%80;From+data+to+intelligence+%E2%9A%A1)](https://github.com/Shrinija17)
+
+<br>
+
+<a href="https://github.com/Shrinija17"><img src="https://img.shields.io/badge/%F0%9F%94%AD_EXPLORING-GenAI_%26_LLMs-6366f1?style=for-the-badge&labelColor=0a0a0f" /></a>
+<a href="https://github.com/Shrinija17"><img src="https://img.shields.io/badge/%F0%9F%92%BC_STATUS-Open_to_Work-22c55e?style=for-the-badge&labelColor=0a0a0f" /></a>
+
+</div>
+
+<br>
+
+<table align="center" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 &nbsp;About Me
+
+```yaml
+name: Shrinija Kummari
+role: AI Engineer
+focus:
+  - Large Language Models (LLMs)
+  - Retrieval-Augmented Generation (RAG)
+  - Machine Learning & NLP
+  - Data Analytics & Visualization
+education: Business Analytics
+superpower: Bridging business logic with AI
+currently_building: AI-powered applications
+looking_for: AI Engineer roles
+```
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ &nbsp;Quick Stats
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrinija17&theme=midnight-purple&hide_border=true&background=0D1117&ring=A855F7&fire=EC4899&currStreakLabel=A855F7&sideLabels=6366F1&dates=555555&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shrinija17&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=9CA3AF" width="100%" />
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+### 🛠️ &nbsp;Tech Arsenal
+
+<br>
+
+**`AI / ML`**
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=6366f1)
+![LangChain](https://img.shields.io/badge/LangChain-0D1117?style=for-the-badge&logo=chainlink&logoColor=a855f7)
+![PyTorch](https://img.shields.io/badge/PyTorch-0D1117?style=for-the-badge&logo=pytorch&logoColor=ec4899)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0D1117?style=for-the-badge&logo=huggingface&logoColor=fbbf24)
+![scikit-learn](https://img.shields.io/badge/sklearn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=6366f1)
+
+**`Data`**
+
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=a855f7)
+![Pandas](https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=ec4899)
+![NumPy](https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=6366f1)
+![Tableau](https://img.shields.io/badge/Tableau-0D1117?style=for-the-badge&logo=tableau&logoColor=a855f7)
+
+**`Tools`**
+
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=6366f1)
+![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=ec4899)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=databricks&logoColor=a855f7)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=6366f1)
+
+</div>
+
+<br>
+
+<div align="center">
+
+### 🚀 &nbsp;Featured Projects
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">💬 DocuChat AI</h3>
 <p align="center">
-  <a href="https://github.com/Shrinija17"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=500&lines=AI+%2F+ML+Engineer;Data+Scientist;Building+intelligent+applications;Turning+data+into+decisions" alt="Typing SVG" /></a>
+  <a href="https://github.com/Shrinija17/rag-chatbot">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
+<p align="center"><strong>RAG chatbot that answers questions about your documents</strong></p>
 <p align="center">
-  <a href="https://github.com/Shrinija17?tab=repositories"><img src="https://img.shields.io/badge/Repos-7-6366f1?style=for-the-badge&logo=github" /></a>
-  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-a855f7?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude_AI-0D1117?style=flat-square&logo=anthropic&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/LangChain-0D1117?style=flat-square&logo=chainlink&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/ChromaDB-0D1117?style=flat-square&logo=databricks&logoColor=ec4899" />
+  <img src="https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=a855f7" />
 </p>
-
----
-
-### About Me
-
-- Building AI-powered applications with **LLMs, RAG, and Machine Learning**
-- Background in **Business Analytics** — I combine data skills with AI engineering
-- Currently exploring **GenAI, NLP, and Computer Vision**
-- Open to **AI/ML Engineer** and **Data Scientist** roles
-
----
-
-### Tech Stack
-
-**AI / ML**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data & Analytics**
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-
-**Tools & Platforms**
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-6366F1?style=flat-square&logo=databricks&logoColor=white)
-
----
-
-### Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [**RAG Chatbot**](https://github.com/Shrinija17/rag-chatbot) | AI chatbot that answers questions about your documents using RAG | Claude, LangChain, ChromaDB, Streamlit |
-| [**AI Audio Tour Agent**](https://github.com/Shrinija17/AI_Audio_Tour_Agent) | AI-powered audio tour guide | Python, AI |
-| [**Movie Sentiment (Llama3)**](https://github.com/Shrinija17/llama3-movie_sentiment) | Sentiment analysis using Llama 3 | Llama 3, NLP |
-| [**US Household Income Analysis**](https://github.com/Shrinija17/US-Household-Income-Data-Analysis) | Data analysis of US household income | SQL, Python |
-| [**World Life Expectancy**](https://github.com/Shrinija17/World_Life_expectancy) | Global life expectancy analysis | Data Analysis |
-
----
-
-### GitHub Stats
-
+</td>
+<td width="50%" valign="top">
+<h3 align="center">🎧 AI Audio Tour Agent</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shrinija17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0f&title_color=6366f1&icon_color=a855f7&text_color=9ca3af" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shrinija17&theme=tokyonight&hide_border=true&background=0A0A0F&ring=6366F1&fire=A855F7&currStreakLabel=6366F1&sideLabels=9CA3AF&dates=6B7280" height="165" />
+  <a href="https://github.com/Shrinija17/AI_Audio_Tour_Agent">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-a855f7?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
-
----
-
+<p align="center"><strong>AI-powered audio tour guide application</strong></p>
 <p align="center">
-  <i>Open to AI/ML Engineer and Data Scientist opportunities. Let's connect!</i>
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/AI-0D1117?style=flat-square&logo=openai&logoColor=a855f7" />
 </p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<h3 align="center">🎬 Movie Sentiment Analysis</h3>
+<p align="center">
+  <a href="https://github.com/Shrinija17/llama3-movie_sentiment">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-ec4899?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center"><strong>Sentiment analysis powered by Llama 3</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Llama_3-0D1117?style=flat-square&logo=meta&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=spacy&logoColor=a855f7" />
+</p>
+</td>
+<td width="50%" valign="top">
+<h3 align="center">📊 US Household Income</h3>
+<p align="center">
+  <a href="https://github.com/Shrinija17/US-Household-Income-Data-Analysis">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-6366f1?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center"><strong>Data analysis of US household income trends</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=mysql&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=a855f7" />
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+### 🤝 &nbsp;Let's Connect
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Shrinija17)
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:a855f7,100:ec4899&height=120&section=footer" width="100%" />
+
+</div>
