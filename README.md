@@ -136,6 +136,22 @@ looking_for: AI Engineer roles
 </p>
 </td>
 <td width="50%" valign="top">
+<h3 align="center">🔬 AI Research Agents</h3>
+<p align="center">
+  <a href="https://github.com/Shrinija17/ai-research-agents">
+    <img src="https://img.shields.io/badge/VIEW_PROJECT-10b981?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+<p align="center"><strong>Multi-agent system where AI agents collaborate to produce research reports</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-0D1117?style=flat-square&logo=anthropic&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Multi--Agent-0D1117?style=flat-square&logo=openai&logoColor=10b981" />
+  <img src="https://img.shields.io/badge/Orchestrator-0D1117?style=flat-square&logo=diagrams.net&logoColor=3b82f6" />
+</p>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 <h3 align="center">🎧 AI Voice Agents</h3>
 <p align="center">
   <a href="https://github.com/Shrinija17/AI_Audio_Tour_Agent">
