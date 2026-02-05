@@ -104,7 +104,7 @@ Fine-tuned LLM for nuanced sentiment classification:
 </tr>
 </table>
 
-<br>
+---
 
 ### 🌟 Wall-e — My Personal AI Agent
 
@@ -113,15 +113,6 @@ Fine-tuned LLM for nuanced sentiment classification:
 **Wall-e** is my autonomous AI assistant built with [OpenClaw](https://github.com/openclaw/openclaw). It runs 24/7 across messaging platforms, handling research, coding tasks, scheduling, and more — completely autonomously.
 
 **Stats:** `99.7% uptime` · `50+ tasks/day` · `3 platforms` · `Powered by Claude`
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Shrinija17&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Shrinija17&theme=tokyonight&hide_border=true&background=0D1117" />
-</p>
 
 ---
 
