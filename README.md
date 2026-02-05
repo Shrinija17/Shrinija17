@@ -246,29 +246,6 @@ looking_for: AI Engineer roles
 
 <div align="center">
 
-### 🌍 &nbsp;Open Source Contributions
-
-</div>
-
-<br>
-
-<div align="center">
-
-| Project | Contribution | Status |
-|---------|-------------|--------|
-| [![KanaDojo](https://img.shields.io/badge/KanaDojo-0D1117?style=flat-square&logo=github&logoColor=ec4899)](https://github.com/lingdojo/kana-dojo) | [Added Japan safety fact to community content](https://github.com/lingdojo/kana-dojo/pull/3716) | ![Merged](https://img.shields.io/badge/MERGED-22c55e?style=flat-square) |
-| [![OpenClaw](https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=github&logoColor=22c55e)](https://github.com/openclaw/openclaw) | [Improved security docs for multi-user DM sessions](https://github.com/openclaw/openclaw/pull/9377) | ![In Review](https://img.shields.io/badge/IN_REVIEW-6366f1?style=flat-square) |
-
-<br>
-
-<em>Contributing to open source projects in AI, education, and developer tools</em>
-
-</div>
-
-<br>
-
-<div align="center">
-
 ### 🤝 &nbsp;Let's Connect
 
 <br>
