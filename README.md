@@ -20,15 +20,52 @@ I'm an **AI Engineer** based in Seattle, passionate about building AI systems th
 
 ### 🛠 Tech Stack
 
+**Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+</p>
+
+**AI & LLMs**
+<p>
   <img src="https://img.shields.io/badge/-Claude-191919?style=flat&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-OpenAI-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-OpenAI_GPT-412991?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LangChain-1C3C3C?style=flat&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-LlamaIndex-5A29E4?style=flat&logo=meta&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-RAG-FF6B6B?style=flat"/>
+  <img src="https://img.shields.io/badge/-Prompt_Engineering-9333EA?style=flat"/>
+</p>
+
+**Data & ML**
+<p>
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-ChromaDB-FF6B6B?style=flat"/>
+  <img src="https://img.shields.io/badge/-Pinecone-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+</p>
+
+**Cloud & DevOps**
+<p>
   <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white"/>
+</p>
+
+**Analytics & Visualization**
+<p>
+  <img src="https://img.shields.io/badge/-Tableau-E97627?style=flat&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Excel-217346?style=flat&logo=microsoftexcel&logoColor=white"/>
 </p>
 
 ---
