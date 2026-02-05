@@ -201,6 +201,74 @@ looking_for: AI Engineer roles
 
 <div align="center">
 
+### 🤖 &nbsp;Wall-e — My Personal AI Agent
+
+</div>
+
+<br>
+
+<div align="center">
+<table>
+<tr>
+<td width="100%" valign="top">
+<h3 align="center">🌟 Wall-e</h3>
+<p align="center">
+  <a href="https://github.com/openclaw/openclaw">
+    <img src="https://img.shields.io/badge/BUILT_WITH_OPENCLAW-22c55e?style=for-the-badge&logo=robot&logoColor=white" />
+  </a>
+</p>
+<p align="center"><strong>A personal AI agent powered by OpenClaw that connects across messaging platforms</strong></p>
+<p align="center">
+  Wall-e is my autonomous AI assistant built using <a href="https://github.com/openclaw/openclaw">OpenClaw</a> — an open-source framework for creating AI agents that work across WhatsApp, Telegram, Discord, and more.
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=robot&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Claude_AI-0D1117?style=flat-square&logo=anthropic&logoColor=a855f7" />
+  <img src="https://img.shields.io/badge/Multi--Platform-0D1117?style=flat-square&logo=messenger&logoColor=6366f1" />
+  <img src="https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=3178c6" />
+</p>
+<br>
+<p align="center"><em>How I built it:</em></p>
+<p align="left">
+
+1. **Set up OpenClaw** — Installed the CLI and configured my gateway
+2. **Connected messaging channels** — Integrated Telegram/WhatsApp for multi-platform access
+3. **Customized the agent** — Configured Claude as the LLM backend with custom system prompts
+4. **Deployed** — Running 24/7 as my personal AI assistant for tasks, research, and more
+
+</p>
+</td>
+</tr>
+</table>
+</div>
+
+<br>
+
+<div align="center">
+
+### 🌍 &nbsp;Open Source Contributions
+
+</div>
+
+<br>
+
+<div align="center">
+
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| [![KanaDojo](https://img.shields.io/badge/KanaDojo-0D1117?style=flat-square&logo=github&logoColor=ec4899)](https://github.com/lingdojo/kana-dojo) | [Added Japan safety fact to community content](https://github.com/lingdojo/kana-dojo/pull/3716) | ![Merged](https://img.shields.io/badge/MERGED-22c55e?style=flat-square) |
+| [![OpenClaw](https://img.shields.io/badge/OpenClaw-0D1117?style=flat-square&logo=github&logoColor=22c55e)](https://github.com/openclaw/openclaw) | [Improved security docs for multi-user DM sessions](https://github.com/openclaw/openclaw/pull/9377) | ![In Review](https://img.shields.io/badge/IN_REVIEW-6366f1?style=flat-square) |
+
+<br>
+
+<em>Contributing to open source projects in AI, education, and developer tools</em>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ### 🤝 &nbsp;Let's Connect
 
 <br>
