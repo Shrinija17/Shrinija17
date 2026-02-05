@@ -250,7 +250,7 @@ looking_for: AI Engineer roles
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shrinija-kummari)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/shrinijakummari/)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=ffffff)](https://github.com/Shrinija17)
 [![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=ec4899)](mailto:shrinija.kummari@baruchmail.cuny.edu)
 
